@@ -1,0 +1,80 @@
+[
+{
+	"indicator":"Number of students in Delhi University",
+	"place":"Delhi, India",
+	"time":"2013",
+	"trend":"increase"
+},
+{
+	"indicator":"Number of registered companies",
+	"place":"India",
+	"time":"1995",
+	"trend":"increase"
+},
+{
+	"indicator":"Number of registered companies",
+	"place":"Uttar Pradesh, India",
+	"time":"2007",
+	"trend":"increase"
+},
+{
+	"indicator":"Number of registered companies",
+	"place":"West Bengal, India",
+	"time":"1973",
+	"trend":"increase"
+},
+{
+	"indicator":"Number of registered companies",
+	"place":"West Bengal, India",
+	"time":"1998",
+	"trend":"increase"
+},
+{
+	"indicator":"Number of registered companies",
+	"place":"West Bengal, India",
+	"time":"2017",
+	"trend":"increase"
+},
+{
+	"indicator":"Number of registered companies",
+	"place":"Maharashtra, India",
+	"time":"2004",
+	"trend":"increase"
+},
+{
+	"indicator":"Number of registered companies",
+	"place":"Maharashtra, India",
+	"time":"1999",
+	"trend":"increase"
+},
+{
+	"indicator":"Number of registered companies",
+	"place":"Delhi, India",
+	"time":"2005",
+	"trend":"increase"
+},
+{
+	"indicator":"Vehicle Population",
+	"place":"India",
+	"time":"2001",
+	"trend":"increase"
+},
+{
+	"indicator":"Length of road constructed",
+	"place":"Delhi,India",
+	"time":"2014",
+	"trend":"increase"
+},
+{
+	"indicator":"Length of road constructed",
+	"place":"India",
+	"time":"2019",
+	"trend":"increase"
+},
+{
+	"indicator":"Length of road constructed",
+	"place":"Punjab, India",
+	"time":"2017",
+	"trend":"increase"
+}
+]
